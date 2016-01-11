@@ -1,0 +1,14 @@
+layout_spectrum: 0.179914
+color:
+  saturation: 0.05427788
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#000000'
+    - '#B57627'
+    - '#77643A'
+    - '#958886'
+    - '#C7986C'
+  rhythmicContrast: 0.4793806
+typography_spectrum: 0.8501611
+name: Modern Buddhist Fellowship
