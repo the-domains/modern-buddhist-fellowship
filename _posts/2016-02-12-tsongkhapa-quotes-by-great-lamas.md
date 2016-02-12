@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-12T15:55:32.456Z'
-dateModified: '2016-02-12T15:54:11.174Z'
+datePublished: '2016-02-12T15:56:10.833Z'
+dateModified: '2016-02-12T15:56:05.598Z'
 title: Tsongkhapa Quotes by Great Lamas
 author: []
 sourcePath: _posts/2016-02-12-tsongkhapa-quotes-by-great-lamas.md
