@@ -1,14 +1,28 @@
-layout_spectrum: 0.179914
+name: Modern Buddhist Fellowship
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.49642
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.05427788
-  brandStrength: 1
-  lightness: 1
   brandColors:
     - '#000000'
     - '#B57627'
     - '#77643A'
     - '#958886'
     - '#C7986C'
-  rhythmicContrast: 0.4793806
-typography_spectrum: 0.8501611
-name: Modern Buddhist Fellowship
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.05427788
+  rhythmicContrast: 0.5
+purpose: []
