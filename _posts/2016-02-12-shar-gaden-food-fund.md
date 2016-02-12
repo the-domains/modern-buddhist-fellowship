@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-02-12T16:49:16.074Z'
+datePublished: '2016-02-12T16:52:39.862Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: Shar Gaden Food Fund
-dateModified: '2016-02-12T16:49:02.929Z'
+dateModified: '2016-02-12T16:49:34.931Z'
 sourcePath: _posts/2016-02-12-shar-gaden-food-fund.md
 published: true
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
