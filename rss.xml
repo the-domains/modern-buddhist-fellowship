@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Modern Buddhist Fellowship]]></title>
+        <description><![CDATA[Modern Buddhist Fellowship]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 12 Feb 2016 15:36:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51d76f14-5712-4268-a005-84487528b32d.jpg">]]></description>
+            <link>undefineda6b9fa5c-0c0d-4243-9987-fffce72a16f4/index.html</link>
+            <guid isPermaLink="false">a6b9fa5c-0c0d-4243-9987-fffce72a16f4</guid>
+            <pubDate>Fri, 12 Feb 2016 15:35:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
