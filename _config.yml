@@ -1,40 +1,40 @@
-name: Modern Buddhist Fellowship
 favicon: null
-layout_spectrum: 0.37245
-typography_spectrum: 0.49642
+name: Modern Buddhist Fellowship
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
+purpose: []
 color:
+  saturation: 0.7083781
+  brandStrength: 0
+  lightness: 0.3281417
   brandColors:
     - '#FFFFFF'
     - '#010000'
     - '#FAAE40'
     - '#B5B3B4'
     - '#929191'
-  brandStrength: 0
-  lightness: 1
-  saturation: 0.7083781
-  rhythmicContrast: 0.5891514
-purpose: []
+  rhythmicContrast: 0.8168636
+typography_spectrum: 1
+layout_spectrum: 0.3270676
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
